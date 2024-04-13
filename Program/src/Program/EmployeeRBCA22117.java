@@ -1,6 +1,6 @@
 package Program;
 
-public class EmployeeRBCA22117 {
+public class EmployeeRBCA22109 {
 	 private String name;
 	    private String jobTitle;
 	    private double basicSalary;
